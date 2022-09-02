@@ -7,3 +7,7 @@ In order to use our Frontend applications with your Wordpress CMS, you need to h
 If you haven't installed Wordpress locally you can do it here [https://wordpress.org/support/article/how-to-install-wordpress/]
 
 This connection makes it possible for any locally stored Wordpress posts to be rendered in our Frontend Applications.
+
+## List of compatible Frontend Applications
+
+1. https://github.com/Theo-Selin/wordpress-client
